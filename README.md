@@ -10,7 +10,7 @@ Clone this project
 ~$ git clone git@github.com:landx-id/pgbouncer-chart-gke.git
 ```
 
-Update to appropriate values any variables inside square brackets `[]`
+Update `values.yml` to appropriate values any variables inside square brackets `[]`
 1. **[DB_User]** : Database username
 2. **[DB_Password]** : Database password
 3. **[DB_Name]** : Database name
