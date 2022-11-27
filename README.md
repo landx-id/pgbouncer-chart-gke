@@ -1,6 +1,6 @@
 # GKE Pgbouncer
 
-PgBouncer is a lightweight connection pooler for PostgreSQL. This chart is forked from https://github.com/wallarm/pgbouncer-chart, and taylored to be used on Google Kubernetes Engine by using Cloud Proxy.
+PgBouncer is a lightweight connection pooler for PostgreSQL. This chart is forked from https://github.com/wallarm/pgbouncer-chart, and tailored to be used on Google Kubernetes Engine by using Cloud Proxy.
 
 ## Usage
 
